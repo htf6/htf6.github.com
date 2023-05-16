@@ -82453,7 +82453,7 @@ ai(){this.aC()
 this.d=new A.AA(A.anQ(null,0,this),B.ba,5,$.aH())},
 qk(a){var s=a/70
 if(s<=0)s=1
-else if(s>1)s=0
+else if(s>=1)s=0
 this.e.sl(0,s)},
 m(){this.Zp()
 var s=this.d
